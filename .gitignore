@@ -14,3 +14,6 @@ venv/
 
 # Universitätsdatensätze
 data/
+
+# Originale ML-Übungen
+ml-exercises/
