@@ -8,6 +8,6 @@ Contents:
 3. Kernel Discriminant Analysis
 4. Support Vector Machines and Decision Trees
 5. Dimensionality Reduction – PCA and t-SNE
-6. Clustering – k-Means and Gaussian Mixture Models (work in progress)
+6. Clustering – k-Means and Gaussian Mixture Models
 
 Technologies: Python, NumPy, pandas, scikit-learn, Jupyter Notebook
